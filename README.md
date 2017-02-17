@@ -14,3 +14,15 @@ adding a topic or adding relevant links to existing topics.
 
 This is a running list of topics for the show along with relevant links for research and context.
 
+
+* PWAs
+  * What are Progressive Web Apps?
+  * What standards do PWAs encompass?
+  * What tools are people using?
+
+* Web Components
+  * Are custom elements ready?
+  * WTF is Shadow DOM?
+
+
+
