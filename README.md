@@ -1,11 +1,11 @@
-# JS Part Podcast
+# JS Party Podcast
 
 A LIVE celebration of JS and the web every Friday at 3pm US/Eastern @ https://changelog.com/live
 
 This repository is used for submitting and curating the topics for each episode of JS Party.
 
 Typically, each episode will cover 3 topics. Preference is given to timely topics so if there are 
-recently announcements or news those topics may pop into the agenda at the last minute.
+recent announcements or news, those topics may pop into the agenda at the last minute.
 
 Listeners should feel free to log an issue suggesting a topic or send a pull request to the topic list below 
 adding a topic or adding relevant links to existing topics.
