@@ -24,5 +24,6 @@ This is a running list of topics for the show along with relevant links for rese
   * Are custom elements ready?
   * WTF is Shadow DOM?
 
-
+* Web Assembly
+  * What kind of impact will it have on the ecosystem?
 
