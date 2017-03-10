@@ -14,7 +14,6 @@ adding a topic or adding relevant links to existing topics.
 
 This is a running list of topics for the show along with relevant links for research and context.
 
-
 * PWAs
   * What are Progressive Web Apps?
   * What standards do PWAs encompass?
@@ -23,3 +22,9 @@ This is a running list of topics for the show along with relevant links for rese
 * Web Components
   * Are custom elements ready?
   * WTF is Shadow DOM?
+
+* Maintainer Burnout
+  * [Nolan](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
+  * [Mikeal](https://medium.com/@mikeal/time-to-leave-a68294ccb2af#.8ic3dlxb1)
+  * [Jan](http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html)
+  * [BoingBoing](https://boingboing.net/2017/03/09/nekkhamma.html)
