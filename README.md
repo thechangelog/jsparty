@@ -23,9 +23,3 @@ This is a running list of topics for the show along with relevant links for rese
 * Web Components
   * Are custom elements ready?
   * WTF is Shadow DOM?
-
-* Web Assembly
-  * What kind of impact will it have on the ecosystem?
-  * [Brendan is worried vendors will mess this up](http://www.infoworld.com/article/3175024/web-development/brendan-eich-tech-giants-could-botch-webassembly.html)
-  * [Cartoon intro to Web Assembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
-  * [Getting Started with Web Assembly in Node.js](http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html?utm_source=nodeweekly&utm_medium=email)
