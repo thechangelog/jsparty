@@ -14,9 +14,7 @@ adding a topic or adding relevant links to existing topics.
 
 This is a running list of topics for the show along with relevant links for research and context.
 
-* Web Components
-  * Are custom elements ready?
-  * WTF is Shadow DOM?
+
 
 * Maintainer Burnout
   * [Nolan](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
