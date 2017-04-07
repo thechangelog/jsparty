@@ -21,3 +21,7 @@ This is a running list of topics for the show along with relevant links for rese
   * [Mikeal](https://medium.com/@mikeal/time-to-leave-a68294ccb2af#.8ic3dlxb1)
   * [Jan](http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html)
   * [BoingBoing](https://boingboing.net/2017/03/09/nekkhamma.html)
+  
+* How to introduce newbies to JavaScript?
+  * How help people overcome "not being a programmer"?
+  * Is jQuery still a good on ramp?
